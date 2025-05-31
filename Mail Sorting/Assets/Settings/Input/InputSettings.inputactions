@@ -1,0 +1,34 @@
+{
+    "name": "InputSettings",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "2a775596-a087-4133-82e9-a44fe6c204e2",
+            "actions": [
+                {
+                    "name": "Test1",
+                    "type": "Button",
+                    "id": "9a956ede-803b-4803-a1c4-5cac0571d3c2",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "823f06d9-4d77-4d55-988d-c40341e43c6f",
+                    "path": "<Keyboard>/numpad1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Test1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
